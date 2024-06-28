@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "148370b4-e5d9-44a5-8950-e16bed84c9c9",
+      "name": "Diego",
+      "email": "diego@teste.com"
+    },
+    {
+      "id": "9c9736d3-c32f-42cb-b72f-e20228d7e8d3",
+      "name": "Diego 2",
+      "email": "diego2@teste2.com"
+    }
+  ]
+}
